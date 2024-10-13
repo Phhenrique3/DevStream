@@ -1,0 +1,205 @@
+{
+  "videos":[
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/XEZYadc2o-8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Programação"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Mobile"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Programação"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Data Science"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Ao Vivo"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Mobile"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Data Science"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Programação"
+    },
+    {
+      "id": 9,
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Ao Vivo"
+    },
+    {
+      "id": 10,
+      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+      "descricao": "18 mil visualizações",
+      "url": "https://www.youtube.com/embed/fpth65ts3cw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Debates"
+    },
+    {
+      "id": 11,
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Inovação"
+    },
+    {
+      "id": 12,
+      "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Front-end"
+    },
+    {
+      "id": 13,
+      "titulo": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
+      "descricao": "12 mil visualizações",
+      "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Inteligência Artificial"
+    },
+    {
+      "id": 14,
+      "titulo": "Show YouTube videos on your own website! | YouTube API Tutorial",
+      "descricao": "47 mil visualizações",
+      "url": "https://www.youtube.com/embed/idYUy3hf3D0",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Node.js"
+    },
+    {
+      "id": 15,
+      "titulo": "Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API",
+      "descricao": "216 mil visualizações",
+      "url": "https://www.youtube.com/embed/th5_9woFJmk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "categoria": "Python "
+    },
+    {
+      "id": 16,
+      "titulo": "JavaScript Crash Course for Beginners",
+      "descricao": "1M visualizações",
+      "url": "https://www.youtube.com/embed/hdI2bqOjy3c",
+      "imagem": "https://i.ytimg.com/vi/hdI2bqOjy3c/maxresdefault.jpg",
+      "categoria": "Programação"
+    },
+    {
+      "id": 17,
+      "titulo": "Learn React in 1 Hour",
+      "descricao": "500k visualizações",
+      "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+      "imagem": "https://i.ytimg.com/vi/Ke90Tje7VS0/maxresdefault.jpg",
+      "categoria": "Programação"
+    },
+    {
+      "id": 18,
+      "titulo": "Node.js Crash Course",
+      "descricao": "200k visualizações",
+      "url": "https://www.youtube.com/embed/fBNz5xF-Kx4",
+      "imagem": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+      "categoria": "Node.js"
+    },
+    {
+      "id": 19,
+      "titulo": " Python for Beginners",
+      "descricao": "800k visualizações",
+      "url": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+      "imagem": "https://i.ytimg.com/vi/_uQrJ0TkZlc/maxresdefault.jpg",
+      "categoria": "Python"
+    },
+    {
+      "id": 20,
+      "titulo": "Understanding CSS Grid",
+      "descricao": "300k visualizações",
+      "url": "https://www.youtube.com/embed/jV8B24rSN5o",
+      "imagem": "https://i.ytimg.com/vi/jV8B24rSN5o/maxresdefault.jpg",
+      "categoria": "CSS"
+    },
+    
+      {
+        "id": 21,
+        "titulo": "Async JavaScript Tutorial",
+        "descricao": "250k visualizações",
+        "url": "https://www.youtube.com/embed/PoRJizFvM7s",
+        "imagem": "https://i.ytimg.com/vi/PoRJizFvM7s/maxresdefault.jpg",
+        "categoria": "Programação"
+      },
+      {
+        "id": 22,
+        "titulo": "Mastering Git in 30 Minutes",
+        "descricao": "150k visualizações",
+        "url": "https://www.youtube.com/embed/8JJ101D3knE",
+        "imagem": "https://i.ytimg.com/vi/8JJ101D3knE/maxresdefault.jpg",
+        "categoria": "GIT"
+      },
+      {
+        "id": 23,
+        "titulo": "Building a REST API with Node.js",
+        "descricao": "300k visualizações",
+        "url": "https://www.youtube.com/embed/pKd0Rpw7O48",
+        "imagem": "https://i.ytimg.com/vi/pKd0Rpw7O48/maxresdefault.jpg",
+        "categoria": "Node.js"
+      },
+      {
+        "id": 24,
+        "titulo": "Introduction to TypeScript",
+        "descricao": "350k visualizações",
+        "url": "https://www.youtube.com/embed/BwuLxPH8IDs",
+        "imagem": "https://i.ytimg.com/vi/BwuLxPH8IDs/maxresdefault.jpg",
+        "categoria": "Programação"
+      },
+      {
+        "id": 25,
+        "titulo": "GraphQL Full Course - Novice to Expert",
+        "descricao": "400k visualizações",
+        "url": "https://www.youtube.com/embed/ed8SzALpx1Q",
+        "imagem": "https://i.ytimg.com/vi/ed8SzALpx1Q/maxresdefault.jpg",
+        "categoria": "Programação"
+      }
+    ]
+  }
